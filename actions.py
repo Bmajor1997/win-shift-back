@@ -1,7 +1,6 @@
 import pyautogui
 import time
 
-
 def press_win_shift_back():
 
     result = {
